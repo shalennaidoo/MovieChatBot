@@ -1,4 +1,5 @@
 # MovieChatBot
+[Languages|Frameworks: Android/Java|Dialogflow]
 Android Movie ChatBot implementation utilizing webhooks, based on NLP(Natural Language Processing) from DialogFlow.
 1. Create Project on Dialogflow
 2. Create Intent based on movie information
